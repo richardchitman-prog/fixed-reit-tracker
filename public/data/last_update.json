@@ -1,0 +1,10 @@
+{
+  "lastUpdate": "2025-02-04T12:00:00.000Z",
+  "autoUpdateEnabled": true,
+  "nextScheduledUpdate": "2025-02-04T21:00:00.000Z",
+  "schedule": {
+    "days": "Monday-Friday",
+    "time": "9:00 PM UTC",
+    "description": "1 hour after US market close"
+  }
+}

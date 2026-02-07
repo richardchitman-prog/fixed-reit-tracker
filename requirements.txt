@@ -1,0 +1,5 @@
+# Python dependencies for High Yield Dashboard data fetching
+# Install with: pip install -r requirements.txt
+
+yfinance>=0.2.36
+pandas>=2.0.0
