@@ -1,1 +1,114 @@
-[{"ticker": "MORT", "name": "VanEck Mortgage REIT Income ETF", "price": 10.86, "yield": 12.75, "category": "Real Estate"}, {"ticker": "QYLD", "name": "Global X NASDAQ 100 Covered Call ETF", "price": 17.72, "yield": 11.55, "category": "Derivative Income"}, {"ticker": "PGX", "name": "Invesco Preferred ETF", "price": 11.36, "yield": 6.02, "category": "Preferred Stock"}, {"ticker": "DRIP", "name": "Direxion Daily S&P Oil & Gas Exp. & Prod. Bear 2X Shares", "price": 7.28, "yield": 2.86, "category": "Trading--Inverse Equity"}]
+[
+  {
+    "ticker": "JEPI",
+    "name": "JPMorgan Equity Premium Income ETF",
+    "price": 59.11,
+    "yield": 8.06,
+    "sector": NaN,
+    "category": "Derivative Income"
+  },
+  {
+    "ticker": "QYLD",
+    "name": "Global X NASDAQ 100 Covered Call ETF",
+    "price": 17.67,
+    "yield": 11.43,
+    "sector": NaN,
+    "category": "Derivative Income"
+  },
+  {
+    "ticker": "XYLD",
+    "name": "Global X S&P 500 Covered Call ETF",
+    "price": 40.8,
+    "yield": 10.46,
+    "sector": NaN,
+    "category": "Derivative Income"
+  },
+  {
+    "ticker": "DIVO",
+    "name": "Amplify CWP Enhanced Dividend Income ETF",
+    "price": 47.11,
+    "yield": 4.97,
+    "sector": NaN,
+    "category": "Derivative Income"
+  },
+  {
+    "ticker": "SPYD",
+    "name": "State Street SPDR Portfolio S&P 500 High Dividend ETF",
+    "price": 47.03,
+    "yield": 4.32,
+    "sector": NaN,
+    "category": "Mid-Cap Value"
+  },
+  {
+    "ticker": "SDIV",
+    "name": "Global X SuperDividend ETF",
+    "price": 26.02,
+    "yield": 8.96,
+    "sector": NaN,
+    "category": "Global Small/Mid Stock"
+  },
+  {
+    "ticker": "PGX",
+    "name": "Invesco Preferred ETF",
+    "price": 11.34,
+    "yield": 5.99,
+    "sector": NaN,
+    "category": "Preferred Stock"
+  },
+  {
+    "ticker": "SPHD",
+    "name": "Invesco S&P 500 High Dividend Low Volatility ETF",
+    "price": 51.54,
+    "yield": 3.97,
+    "sector": NaN,
+    "category": "Large Value"
+  },
+  {
+    "ticker": "DRIP",
+    "name": "Direxion Daily S&P Oil & Gas Exp. & Prod. Bear 2X Shares",
+    "price": 6.62,
+    "yield": 3.55,
+    "sector": NaN,
+    "category": "Trading--Inverse Equity"
+  },
+  {
+    "ticker": "REM",
+    "name": "iShares Mortgage Real Estate Capped ETF",
+    "price": 22.75,
+    "yield": 8.47,
+    "sector": NaN,
+    "category": "Real Estate"
+  },
+  {
+    "ticker": "MORT",
+    "name": "VanEck Mortgage REIT Income ETF",
+    "price": 10.79,
+    "yield": 12.4,
+    "sector": NaN,
+    "category": "Real Estate"
+  },
+  {
+    "ticker": "IWM",
+    "name": "iShares Russell 2000 ETF",
+    "price": 265.02,
+    "yield": 98.0,
+    "sector": NaN,
+    "category": "Small Blend"
+  },
+  {
+    "ticker": "EWZ",
+    "name": "iShares MSCI Brazil ETF",
+    "price": 37.56,
+    "yield": 4.45,
+    "sector": NaN,
+    "category": "Latin America Stock"
+  },
+  {
+    "ticker": "HDVB",
+    "name": "HDVB",
+    "price": 0,
+    "yield": 0,
+    "sector": NaN,
+    "category": NaN
+  }
+]
