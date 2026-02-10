@@ -3,7 +3,7 @@
     "ticker": "AGNC",
     "name": "AGNC Investment Corp.",
     "price": 11.34,
-    "yield": 12.59,
+    "yield": 12.7,
     "sector": "Real Estate",
     "category": NaN
   },
@@ -19,7 +19,7 @@
     "ticker": "ARR",
     "name": "ARMOUR Residential REIT, Inc.",
     "price": 17.49,
-    "yield": 16.28,
+    "yield": 16.47,
     "sector": "Real Estate",
     "category": NaN
   },
