@@ -61,12 +61,16 @@ jobs:
         echo "Building website..."
         npm run build
         echo "Build completed"
-      
-    - name: Copy data to dist
-      run: |
-        echo "Copying data files to dist..."
-        cp -r public/data dist/
-        ls -lh dist/data/
+        echo "Verifying data in dist..."
+        ls -la dist/
+        if [ -d "dist/data" ]; then
+          echo "✓ Data folder exists in dist"
+          ls -lh dist/data/
+        else
+          echo "✗ Data folder missing from dist - manually copying..."
+          cp -r public/data dist/
+          ls -lh dist/data/
+        fi
         
     - name: Upload Pages artifact
       uses: actions/upload-pages-artifact@v3
