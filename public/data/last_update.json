@@ -1,7 +1,7 @@
 {
-  "lastUpdate": "2026-02-10T09:33:53.485700",
+  "lastUpdate": "2026-02-10T23:11:21.931255",
   "autoUpdateEnabled": true,
-  "nextScheduledUpdate": "2026-02-10T21:00:00",
+  "nextScheduledUpdate": "2026-02-11T21:00:00",
   "schedule": {
     "days": "Monday-Friday",
     "time": "9:00 PM UTC",
