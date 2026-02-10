@@ -11,7 +11,7 @@
     "ticker": "NLY",
     "name": "Annaly Capital Management, Inc.",
     "price": 22.63,
-    "yield": 12.25,
+    "yield": 12.37,
     "sector": "Real Estate",
     "category": NaN
   },
@@ -27,7 +27,7 @@
     "ticker": "ORC",
     "name": "Orchid Island Capital, Inc.",
     "price": 7.47,
-    "yield": 18.92,
+    "yield": 19.28,
     "sector": "Real Estate",
     "category": NaN
   },
@@ -35,7 +35,7 @@
     "ticker": "TWO",
     "name": "Two Harbors Investment Corp.",
     "price": 10.77,
-    "yield": 13.77,
+    "yield": 14.11,
     "sector": "Real Estate",
     "category": NaN
   }
