@@ -4,7 +4,7 @@
     "name": "JPMorgan Equity Premium Income ETF",
     "price": 59.21,
     "yield": 8.06,
-    "sector": NaN,
+    "sector": "",
     "category": "Derivative Income"
   },
   {
@@ -12,7 +12,7 @@
     "name": "Global X NASDAQ 100 Covered Call ETF",
     "price": 17.74,
     "yield": 11.43,
-    "sector": NaN,
+    "sector": "",
     "category": "Derivative Income"
   },
   {
@@ -20,7 +20,7 @@
     "name": "Global X S&P 500 Covered Call ETF",
     "price": 40.92,
     "yield": 10.46,
-    "sector": NaN,
+    "sector": "",
     "category": "Derivative Income"
   },
   {
@@ -28,7 +28,7 @@
     "name": "Amplify CWP Enhanced Dividend Income ETF",
     "price": 47.08,
     "yield": 4.97,
-    "sector": NaN,
+    "sector": "",
     "category": "Derivative Income"
   },
   {
@@ -36,7 +36,7 @@
     "name": "State Street SPDR Portfolio S&P 500 High Dividend ETF",
     "price": 47.68,
     "yield": 4.32,
-    "sector": NaN,
+    "sector": "",
     "category": "Mid-Cap Value"
   },
   {
@@ -44,7 +44,7 @@
     "name": "Global X SuperDividend ETF",
     "price": 26.14,
     "yield": 8.96,
-    "sector": NaN,
+    "sector": "",
     "category": "Global Small/Mid Stock"
   },
   {
@@ -52,7 +52,7 @@
     "name": "Invesco Preferred ETF",
     "price": 11.38,
     "yield": 5.99,
-    "sector": NaN,
+    "sector": "",
     "category": "Preferred Stock"
   },
   {
@@ -60,7 +60,7 @@
     "name": "Invesco S&P 500 High Dividend Low Volatility ETF",
     "price": 52.07,
     "yield": 3.97,
-    "sector": NaN,
+    "sector": "",
     "category": "Large Value"
   },
   {
@@ -68,7 +68,7 @@
     "name": "Direxion Daily S&P Oil & Gas Exp. & Prod. Bear 2X Shares",
     "price": 6.69,
     "yield": 3.55,
-    "sector": NaN,
+    "sector": "",
     "category": "Trading--Inverse Equity"
   },
   {
@@ -76,7 +76,7 @@
     "name": "iShares Mortgage Real Estate Capped ETF",
     "price": 22.57,
     "yield": 8.47,
-    "sector": NaN,
+    "sector": "",
     "category": "Real Estate"
   },
   {
@@ -84,7 +84,7 @@
     "name": "VanEck Mortgage REIT Income ETF",
     "price": 10.73,
     "yield": 12.4,
-    "sector": NaN,
+    "sector": "",
     "category": "Real Estate"
   },
   {
@@ -92,7 +92,7 @@
     "name": "iShares Russell 2000 ETF",
     "price": 266.16,
     "yield": 98.0,
-    "sector": NaN,
+    "sector": "",
     "category": "Small Blend"
   },
   {
@@ -100,7 +100,7 @@
     "name": "iShares MSCI Brazil ETF",
     "price": 38.32,
     "yield": 4.45,
-    "sector": NaN,
+    "sector": "",
     "category": "Latin America Stock"
   },
   {
@@ -108,7 +108,7 @@
     "name": "HDVB",
     "price": 0,
     "yield": 0,
-    "sector": NaN,
-    "category": NaN
+    "sector": "",
+    "category": "ETF"
   }
 ]
