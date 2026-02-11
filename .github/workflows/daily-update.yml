@@ -56,31 +56,6 @@ jobs:
         echo "Checking JSON files..."
         cat public/data/last_update.json
         
-    - name: Build website
-      run: |
-        echo "Building website..."
-        npm run build
-        echo "Build completed"
-        echo "Verifying data in dist..."
-        ls -la dist/
-        if [ -d "dist/data" ]; then
-          echo "✓ Data folder exists in dist"
-          ls -lh dist/data/
-        else
-          echo "✗ Data folder missing from dist - manually copying..."
-          cp -r public/data dist/
-          ls -lh dist/data/
-        fi
-        
-    - name: Upload Pages artifact
-      uses: actions/upload-pages-artifact@v3
-      with:
-        path: ./dist
-        
-    - name: Deploy to GitHub Pages
-      id: deployment
-      uses: actions/deploy-pages@v4
-        
     - name: Commit updated data to repository
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
@@ -98,6 +73,30 @@ jobs:
         fi
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        
+    - name: Build website
+      run: |
+        echo "Building website..."
+        npm run build
+        echo "Build completed"
+        echo "Verifying data in dist..."
+        ls -la dist/
+        if [ -d "dist/data" ]; then
+          echo "✓ Data folder exists in dist"
+          ls -lh dist/data/
+        else
+          echo "✗ WARNING: Data folder missing from dist (but should be copied by Vite plugin)"
+          ls -lh dist/ || true
+        fi
+        
+    - name: Upload Pages artifact
+      uses: actions/upload-pages-artifact@v3
+      with:
+        path: ./dist
+        
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v4
     
     - name: Update summary
       if: always()
