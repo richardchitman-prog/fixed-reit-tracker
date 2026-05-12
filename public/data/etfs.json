@@ -2,7 +2,7 @@
   {
     "ticker": "JEPI",
     "name": "JPMorgan Equity Premium Income ETF",
-    "price": 55.85,
+    "price": 56.08,
     "yield": 8.29,
     "sector": "",
     "category": "Derivative Income"
@@ -10,7 +10,7 @@
   {
     "ticker": "QYLD",
     "name": "Global X NASDAQ 100 Covered Call ETF",
-    "price": 18.12,
+    "price": 18.11,
     "yield": 11.47,
     "sector": "",
     "category": "Derivative Income"
@@ -26,7 +26,7 @@
   {
     "ticker": "DIVO",
     "name": "Amplify CWP Enhanced Dividend Income ETF",
-    "price": 45.42,
+    "price": 45.6,
     "yield": 5.07,
     "sector": "",
     "category": "Derivative Income"
@@ -34,7 +34,7 @@
   {
     "ticker": "SPYD",
     "name": "State Street SPDR Portfolio S&P 500 High Dividend ETF",
-    "price": 46.66,
+    "price": 46.81,
     "yield": 4.23,
     "sector": "",
     "category": "Mid-Cap Value"
@@ -42,7 +42,7 @@
   {
     "ticker": "SDIV",
     "name": "Global X SuperDividend ETF",
-    "price": 25.85,
+    "price": 25.76,
     "yield": 8.82,
     "sector": "",
     "category": "Global Small/Mid Stock"
@@ -50,7 +50,7 @@
   {
     "ticker": "PGX",
     "name": "Invesco Preferred ETF",
-    "price": 11.16,
+    "price": 11.15,
     "yield": 6.16,
     "sector": "",
     "category": "Preferred Stock"
@@ -58,7 +58,7 @@
   {
     "ticker": "SPHD",
     "name": "Invesco S&P 500 High Dividend Low Volatility ETF",
-    "price": 49.61,
+    "price": 49.8,
     "yield": 4.37,
     "sector": "",
     "category": "Large Value"
@@ -66,7 +66,7 @@
   {
     "ticker": "DRIP",
     "name": "Direxion Daily S&P Oil & Gas Exp. & Prod. Bear 2X Shares",
-    "price": 4.63,
+    "price": 4.56,
     "yield": 4.18,
     "sector": "",
     "category": "Trading--Inverse Equity"
@@ -74,7 +74,7 @@
   {
     "ticker": "REM",
     "name": "iShares Mortgage Real Estate Capped ETF",
-    "price": 22.46,
+    "price": 22.27,
     "yield": 8.6,
     "sector": "",
     "category": "Real Estate"
@@ -82,7 +82,7 @@
   {
     "ticker": "MORT",
     "name": "VanEck Mortgage REIT Income ETF",
-    "price": 10.33,
+    "price": 10.26,
     "yield": 12.48,
     "sector": "",
     "category": "Real Estate"
@@ -90,7 +90,7 @@
   {
     "ticker": "IWM",
     "name": "iShares Russell 2000 ETF",
-    "price": 285.33,
+    "price": 282.57,
     "yield": 91.0,
     "sector": "",
     "category": "Small Blend"
@@ -98,7 +98,7 @@
   {
     "ticker": "EWZ",
     "name": "iShares MSCI Brazil ETF",
-    "price": 38.66,
+    "price": 38.24,
     "yield": 4.16,
     "sector": "",
     "category": "Focused Region"
