@@ -2,32 +2,32 @@
   {
     "ticker": "AGNC",
     "name": "AGNC Investment Corp.",
-    "price": 8.2,
-    "yield": 17.0,
+    "price": 8.23,
+    "yield": 17.57,
     "sector": "Real Estate",
     "category": ""
   },
   {
     "ticker": "NLY",
     "name": "Annaly Capital Management, Inc.",
-    "price": 17.57,
-    "yield": 16.37,
+    "price": 17.65,
+    "yield": 17.07,
     "sector": "Real Estate",
     "category": ""
   },
   {
     "ticker": "ARR",
     "name": "ARMOUR Residential REIT, Inc.",
-    "price": 11.89,
-    "yield": 23.7,
+    "price": 11.93,
+    "yield": 24.22,
     "sector": "Real Estate",
     "category": ""
   },
   {
     "ticker": "ORC",
     "name": "Orchid Island Capital, Inc.",
-    "price": 4.67,
-    "yield": 25.0,
+    "price": 4.68,
+    "yield": 25.7,
     "sector": "Real Estate",
     "category": ""
   },
